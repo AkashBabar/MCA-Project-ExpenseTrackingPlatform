@@ -1,0 +1,56 @@
+.register-page {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+}
+
+.register-form {
+    background-color: #f6f8f7;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+    width: 30%;
+    
+}
+.register-form .ant-form-item {
+    color: #141300 !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.register-form h2 {
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: #750505;
+    
+}
+
+.register-form a {
+    color: #0c0000 !important;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold ;
+    font-size: 1.2rem;
+}
+
+.register-form a:hover {
+    color: rgb(151, 5, 5) !important;
+}
+
+.register-form button {
+    background-color: #c31313;
+    color: white;
+}
+
+.register-form input:focus {
+    border: 1px solid #1a0d01 !important;
+    color: #040200;
+}
+
+.register-form button:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
