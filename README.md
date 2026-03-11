@@ -33,8 +33,8 @@ Expense Tracker is a web application that helps users track their expenses. It a
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/mrakshaydighe/Expense_Tracker_App_MERN.git
-    cd Expense_Tracker_App_MERN
+    git clone https://github.com/AkashBabar/Expense-Tracking-Platform.git
+    cd Expense-Tracking-Platform
     ```
 
 2. Install backend dependencies:
